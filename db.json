@@ -1,6 +1,8 @@
-[
-{userName:" Avinash",
+{
+"students":[
+      {userName:" Avinash",
       password: "avinash877",
-      confirmPassword:"avinash777},
+      confirmPassword:"avinash777"}
+],
 
-]
+}
