@@ -1,8 +1,8 @@
 {
 "students":[
-      {"userName":" Avinash",
+      {"userName": " Avinash",
       "password": "avinash877",
       "confirmPassword":"avinash777"}
-],
+]
 
 }
