@@ -1,5 +1,5 @@
 {
-"students":[
+"profiles":[
       {"userName": " Avinash", "password": "avinash877",  "confirmPassword":"avinash777" },
       {"userName": " Avinassh", "password": "asvinash877",  "confirmPassword":"avinassh777" }
       ]
