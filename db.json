@@ -1,6 +1,6 @@
 {
 "profiles":[
-      {"name": " Avinash", "phone": "0000000000",  "email":"a@g.com","password":"dddddddd" }
+      {"name": " Avinash", "phone": "0000000000",  "email":"a@g.com","password":"dddddddd" },
        {"name": " murli", "phone": "11111111111",  "email":"m@g.com","password":"ssssssss" }
       ]
 }
