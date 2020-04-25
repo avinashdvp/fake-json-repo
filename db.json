@@ -1,7 +1,7 @@
   
 {
 "profiles":[
-      {"name": " Avinash", "phone": "0000000000",  "email":"a@g.com","password":"dddddddd" },
+      {"name": "aaaa", "phone": "0000000000",  "email":"a@g.com","password":"dddddddd" },
   {"name": " Avinas", "phone": "00000000",  "email":"b@g.com","password":"dddddddd" }
       ]
 }
